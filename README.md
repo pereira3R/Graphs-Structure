@@ -10,8 +10,8 @@ The project is nothing more than a landing page that was requested by a research
 The technologies used to develop the project are very simple.
 
 <div style="display: inline_block" align= "center"><br>
-<img align="center" alt="C" height="38" width="100" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-<img align="center" alt="C++" height="38" width="100" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img align="center" alt="C" height="38" width="80" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+<img align="center" alt="C++" height="38" width="80" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
 ## Contact
